@@ -23,7 +23,7 @@ repos:
     args: [post_commit_test.py]
 
   - id: commit-msg
-    name: Run my tests commit message
+    name: Run my tests commit message action
     entry: python 
     language: system
     stages: [commit-msg]
