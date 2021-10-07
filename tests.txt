@@ -1,0 +1,6 @@
+pre commit 
+post commit 
+pre push 
+commit message
+
+Github action
